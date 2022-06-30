@@ -1,3 +1,10 @@
+Developer : 
+<h2>Monira Osama</h2>
+<h2>Menna Yehia</h2>
+<h2>Ahmed Nagy -Roul</h2>
+<h2>Yousef Emam</h2>
+<h2>Amgad abdelbaset</h2>
+
 # Player Value Prediction
 
 <h5>What factors affect football player values. Given this dataset, we would like to
