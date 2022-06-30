@@ -1,4 +1,4 @@
-# Player-Value-Prediction
+# Player Value Prediction
 
 <h5>What factors affect football player values. Given this dataset, we would like to
 understand and predict a player’s value based on the provided data. </h5>
